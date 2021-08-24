@@ -57,3 +57,4 @@ Modification du formulaire d'inscription pour ajouter le champ "code privilège"
 Ajout du champ code privilege dans la liste des clients dans le BO  
 Il y a une partie configuration du module (qui n'est pas terminée)  
 Création du champ privilege_code dans la table customer lors de l'installation et suppression du champ lors de la désinstallation.
+
