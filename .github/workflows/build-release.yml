@@ -1,6 +1,7 @@
 name: Build & Release draft
 
 on: [push]
+  workflow_dispatch:
 
 jobs:
   deploy:
